@@ -14,7 +14,8 @@ Aplication: [www.connexus.com](---)
 
 - Note. We implemented it on the Sepolia network as it is the most suitable test network for ideal operation and demonstration with verified contracts.
 
-- There were 11 days of challenge and 9 smart contracts implemented. Details of smart contracts can be found at: [Connexus-contracts](https://github.com/connexus-team/connexus-contracts)
+- There were 11 days of challenge and 9 smart contracts implemented. ALL DETAILS OF SMART CONTRACTS can be found at: [Connexus-contracts](https://github.com/connexus-team/connexus-contracts)
+Note: It is VERY IMPORTANT to read the documentation of our smart contracts repository.
 
 # Understand how the protocol works:
 
