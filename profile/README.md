@@ -29,6 +29,8 @@ Aplication: [www.connexus.com](---)
 
 Afonso Dalvi: [Linkedin](https://www.linkedin.com/in/afonso-dalvi-711635112/)
 
+Eduardo Westphal: [Linkedin](https://www.linkedin.com/in/eduardo-westphal-da-cunha/)
+
 Murillo: [Linkedin](https://www.linkedin.com/in/murillo-augusto-esteves-baltazar-b5175628b/)
 
 Renan Cesar: [Linkedin](https://www.linkedin.com/in/renancesardev/)
